@@ -1,0 +1,10 @@
+# Reverse a list in Python
+
+numbers = [10, 20, 30, 40, 50]   # List data type
+
+print("Original List:", numbers)
+
+numbers.reverse()
+
+print("Reversed List:", numbers)
+
